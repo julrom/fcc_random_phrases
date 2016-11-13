@@ -1,0 +1,127 @@
+{
+	"1": {
+		"phrase": "If you can dream it, you can do it.",
+		"author": "Walt Disney",
+		"photo": "Walt_Disney.jpg"
+	},
+	"2": {
+		"phrase": "Never, never, never give up.",
+		"author": "Winston Churchill",
+		"photo": "Winston_S_Churchill.jpg"
+	},
+	"3": {
+		"phrase": "My life is my message.",
+		"author": "Mahatma Gandhi",
+		"photo": "Mahatma_Gandhi.jpg"
+	},
+	"4": {
+		"phrase": "There is always room at the top.",
+		"author": "Daniel Webster",
+		"photo": "Daniel_Webster.jpg"
+	},
+	"5": {
+		"phrase": "Smile, it’s free therapy.",
+		"author": "Douglas Horton",
+		"photo": "Douglas_Horton.jpg"
+	},
+	"6": {
+		"phrase": "Only I can change my life. No one can do it for me.",
+		"author": "Carol Burnett",
+		"photo": "Carol_Burnett.jpg"
+	},
+	"7": {
+		"phrase": "There is only one happiness in this life, to love and be loved.",
+		"author": "George Sand",
+		"photo": "George_Sand.jpg"
+	},
+	"8": {
+		"phrase": "We do not remember days, we remember moments.",
+		"author": "Cesare Pavese",
+		"photo": "Cesare_Pavese.jpg"
+	},
+	"9": {
+		"phrase": "Love is blind.",
+		"author": "Geoffrey Chaucer",
+		"photo": "Geoffrey_Chaucer.jpg"
+	},
+	"10": {
+		"phrase": "Beauty is power; a smile is its sword.",
+		"author": "John Ray",
+		"photo": "John_Ray.jpg"
+	},
+	"11": {
+		"phrase": "While there’s life, there’s hope.",
+		"author": "Marcus Tullius Cicero",
+		"photo": "Marcus_Tullius_Cicero.jpg"
+	},
+	"12": {
+		"phrase": "When love is not madness, it is not love.",
+		"author": "Pedro Calderon de la Barca",
+		"photo": "Pedro_Calderon_de_la_Barca.jpg"
+	},
+	"13": {
+		"phrase": "The purpose of our lives is to be happy.",
+		"author": "Dalai Lama",
+		"photo": "Dalai_Lama.jpg"
+	},
+	"14": {
+		"phrase": "The only disability in life is a bad attitude.",
+		"author": "Scott Hamilton",
+		"photo": "Scott_Hamilton.jpg"
+	},
+	"15": {
+		"phrase": "Don’t count the days, make the days count.",
+		"author": "Muhammad Ali",
+		"photo": "Muhammad_Ali.jpg"
+	},
+	"16": {
+		"phrase": "To avoid criticism, do nothing, say nothing, be nothing.",
+		"author": "Elbert Hubbard",
+		"photo": "Elbert_Hubbard.jpg"
+	},
+	"17": {
+		"phrase": "It’s not what you look at that matters, it’s what you see.",
+		"author": "Henry David Thoreau",
+		"photo": "Henry_David_Thoreau.jpg"
+	},
+	"18": {
+		"phrase": "Our life always expresses the result of our dominant thoughts.",
+		"author": "Soren Kierkegaard",
+		"photo": "Soren_Kierkegaard.jpg"
+	},
+	"19": {
+		"phrase": "Make each day your masterpiece.",
+		"author": "John Wooden",
+		"photo": "John_Wooden.jpg"
+	},
+	"20": {
+		"phrase": "Pain is inevitable. Suffering is optional.",
+		"author": "M. Kathleen Casey",
+		"photo": "M_Kathleen_Casey.jpg"
+	},
+	"21": {
+		"phrase": "Love is the only gold.",
+		"author": "Alfred Lord Tennyson",
+		"photo": "Alfred_Lord_Tennyson.jpg"
+	},
+	"22": {
+		"phrase": "Don’t cry because it’s over. Smile because it happened.",
+		"author": "Dr. Seuss",
+		"photo": "Dr_Seuss.jpg"
+	},
+	"23": {
+		"phrase": "If opportunity doesn’t knock, build a door.",
+		"author": "Milton Berle",
+		"photo": "Milton_Berle.jpg"
+	},
+	"24": {
+		"phrase": "Who seeks shall find.",
+		"author": "Sófocles",
+		"photo": "Sofocles.jpg"
+	},
+	"25": {
+		"phrase": "The best way to predict the future is to invent it.",
+		"author": "Alan Kay",
+		"photo": "alan_kay.jpg"
+	}
+}
