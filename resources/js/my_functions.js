@@ -3,6 +3,7 @@ var last_five = [0,0,0,0,0];
 $(document).ready(function() {
 	$.getJSON("resources/js/json/phrases.json", function(json) {
 		resp = json;
+		$(".panel-body").hide();
 		random_phrase();
 	});
 
@@ -10,7 +11,7 @@ $(document).ready(function() {
 
 function random_phrase() {
 	var i = Math.floor((Math.random() * 25) + 1);
-	if(last_five.indexOf(i) != -1){
+	if(last_five.indexOf(i) !== -1){
 		random_phrase();
 	}else{
 		last_five.shift();
@@ -24,7 +25,7 @@ function random_phrase() {
 			$("#shareOnTwitter").attr("href", 
 					"https://twitter.com/intent/tweet?hashtags=quotes&related=freecodecamp&text=\""+resp[i].phrase+"\" "+resp[i].author+" ");
 		});
-		$(".panel-body").fadeIn("slow");
+		$(".panel-body").fadeIn(1000);
 	}
 }
 
